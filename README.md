@@ -9,7 +9,7 @@
 
 ##
 ![FB_Dark](https://github-readme-stats.vercel.app/api?username=DarkDev-ux&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&layout=compact)
+![Linguagens que utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&layout=compact)
 
 
 ### Favorite Technologies
