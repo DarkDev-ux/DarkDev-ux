@@ -8,8 +8,13 @@
 )](https://www.linkedin.com/in/fabio-camilo-308990214/)
 
 ##
-![FB_Dark](https://github-readme-stats.vercel.app/api?username=DarkDev-ux&show_icons=true&theme=onedark)
+<div>
+ <a href="https://github.com/DarkDev-ux"
+  
+  ![FB_Dark](https://github-readme-stats.vercel.app/api?username=DarkDev-ux&show_icons=true&theme=onedark)
 ![Linguagens que utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&layout=compact)
+  </div>
+
 
 
 ### Favorite Technologies
@@ -21,9 +26,9 @@
 <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt="Dart"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="center" alt="Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
+ </div>
 
 
 I love Technology with a passion ❤️, studying to be a professional in the area
