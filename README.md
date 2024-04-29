@@ -11,7 +11,7 @@
 <div>
  <a href="https://github.com/DarkDev-ux"
   
-  ![FB_Dark](src=https://github-readme-stats.vercel.app/api?username=DarkDev-ux&show_icons=true&theme=onedark)
+  ![FB_Dark](https://github-readme-stats.vercel.app/api?username=DarkDev-ux&show_icons=true&theme=dracula)
 ![Linguagens que utilizo](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&layout=compact&theme=dracula)
   </div>
 
