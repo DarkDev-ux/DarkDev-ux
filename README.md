@@ -1,4 +1,4 @@
-# Hi there, I'm Fábio Camilo 👋👨🏻‍💻
+<h1 align="center">Hi there, I'm Fábio Camilo 👋👨🏻‍💻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabio-camilo-308990214/" target="_blank">
@@ -12,9 +12,9 @@
   </a>
 </p>
 
----
+<hr>
 
-### 🛠️ Tecnologias & Ferramentas
+<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -26,16 +26,24 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
----
+<hr>
 
-### 📊 Most Used Languages
+<h3 align="center">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&theme=tokyonight&hide_border=false&langs_count=10" alt="Most Used Languages" />
+  <a href="https://github.com/DarkDev-ux" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkDev-ux&theme=tokyonight&hide_border=false&langs_count=10&card_width=500" alt="Most Used Languages" width="500" />
+  </a>
 </p>
 
----
+<hr>
 
 <p align="center">
   <i>I love Technology with a passion ❤️, studying to be a professional in the area.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DarkDev-ux">
+    <img src="https://img.shields.io/github/followers/DarkDev-ux?label=follow&style=social" alt="GitHub DarkDev-ux" />
+  </a>
 </p>
